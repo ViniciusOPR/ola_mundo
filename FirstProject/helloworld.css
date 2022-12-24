@@ -1,0 +1,25 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.worldsection{
+    font-size: 16px;
+    align-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px black solid;
+    background-color: orange;
+    margin-left: 18rem;
+    margin-top: 10rem;
+    width: 100%;
+    max-width: 50rem;
+}
+
+img {
+    margin-left: 40%;
+    margin-top: 20px;
+    border: 2px solid black;
+    padding: 20px;
+    background-color: brown;
+}
